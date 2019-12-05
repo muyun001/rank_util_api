@@ -1,2 +1,2 @@
-# rank_util_api
-golang, 排名工具接口
+## 排名解析接口
+> 输入html，输出排名结果
